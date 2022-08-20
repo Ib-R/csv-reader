@@ -1,0 +1,17 @@
+{
+  "name": "csv-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "csv": "^6.2.0",
+    "csv-writer": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "ib-R",
+  "license": "ISC"
+}
